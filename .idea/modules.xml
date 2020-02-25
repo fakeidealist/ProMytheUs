@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ProMyTheUs-Mobile/.idea/ProMyTheUs-Mobile.iml" filepath="$PROJECT_DIR$/../ProMyTheUs-Mobile/.idea/ProMyTheUs-Mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProMytheUs.iml" filepath="$PROJECT_DIR$/.idea/ProMytheUs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tau-pytest-bdd/.idea/tau-pytest-bdd.iml" filepath="$PROJECT_DIR$/../tau-pytest-bdd/.idea/tau-pytest-bdd.iml" />
+    </modules>
+  </component>
+</project>
